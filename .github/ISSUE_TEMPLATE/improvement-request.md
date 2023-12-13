@@ -1,9 +1,9 @@
 ---
 name: Improvement request
-about: A suggestion for improvement for this project
-title: ''
-labels: ''
-assignees: ''
+about: Suggest an improvment for this project
+title: "[IMPROVEMENT]"
+labels: enhancement
+assignees: panzerKotwagen
 
 ---
 
